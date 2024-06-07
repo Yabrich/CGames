@@ -1,0 +1,23 @@
+api: Spigot
+name: CGames
+version: BetaTest
+author: Yabrich
+main: fr.yabrich.cgames.Main
+commands:
+  blackjack:
+    description: BlackJack
+    permission: cgames.blackjack
+    permission-message: §4Vous n'avez pas la permission d'executer cette commande
+  forceplay:
+    description: Force un joueur spécifié à jouer à un jeu
+    permission: cgames.forceplay
+    permission-message: §4Vous n'avez pas la permission d'executer cette commande
+  forcemise:
+    description: Force un joueur spécifié à miser
+    permission: cgames.forcemise
+    permission-message: §4Vous n'avez pas la permission d'executer cette commande
+  roulette:
+    description: Jouer à la roulette
+    permission: cgames.roulette
+    permission-message: §4Vous n'avez pas la permission d'executer cette commande
+    

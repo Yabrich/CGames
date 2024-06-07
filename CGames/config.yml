@@ -1,0 +1,5 @@
+cmd_give_money: essentials:eco give
+cmd_take_money: essentials:eco take
+blackjack:
+  mise_min: 0
+  mise_max: 0
